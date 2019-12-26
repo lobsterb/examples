@@ -1,4 +1,2 @@
 # examples
-vcpkg:
-  boost
-  openssl
+vcpkg:boost, openssl
